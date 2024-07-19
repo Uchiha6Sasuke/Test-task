@@ -1,0 +1,5 @@
+train: C:/Users/Alyona/Documents/detectr/dataset/images/train
+val: C:/Users/Alyona/Documents/detectr/dataset/images/val
+
+nc: 1
+names: ['product']
